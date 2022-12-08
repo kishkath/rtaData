@@ -1,8 +1,13 @@
 # Road Transport
 
+![road](https://user-images.githubusercontent.com/60026221/206359279-a9a5732a-361d-48bc-bb75-f285d0354794.jpg)
+
 Aim: Prediciton of injuries and the severity of injury for people who met in road accidents.
 
 Theme: 
+
+![inj](https://user-images.githubusercontent.com/60026221/206359271-a5d3ef1b-3f0c-4579-8035-e4a6e3ef6781.jpg)
+
 The severity of injury is based on various factors, such as 
  
 * damages of collided vehicles(If the damage of collided vehicles are more, the injury would be serious)
@@ -27,5 +32,7 @@ Coding: Python
 
 
 
-Source: Dataset from kaggle
+Source: https://www.kaggle.com/code/poojatelavane/road-traffic-accident-severity-prediction 
 Course: https://themlco.com/Academy/mgp/
+
+
