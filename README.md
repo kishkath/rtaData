@@ -17,10 +17,10 @@ Tech stack:
 ----------
 Coding: Python
 
-EDA: pandas, numpy
-Visualizations: seaborn, matplotlib
-Metrics: scikit-learn
-Deployment : Streamlit
+*EDA: pandas, numpy
+*Visualizations: seaborn, matplotlib
+*Metrics: scikit-learn
+*Deployment : Streamlit
 
 
 
