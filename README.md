@@ -31,7 +31,6 @@ Coding: Python
 * Deployment : Streamlit
 
 
-
 Source: https://www.kaggle.com/code/poojatelavane/road-traffic-accident-severity-prediction 
 Course: https://themlco.com/Academy/mgp/
 
