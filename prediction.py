@@ -4,7 +4,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import RandomForestClassifier
 import pandas as pd
 
-data = pd.read_csv("Dataset\cleanedData.csv")
+data = pd.read_csv("Dataset/cleanedData.csv")
 
 def encoding(input_val,colName):
     le = LabelEncoder()
