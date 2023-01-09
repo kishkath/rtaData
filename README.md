@@ -16,7 +16,7 @@ The severity of injury is based on various factors, such as
 * Age of person (If age is less, slight injuries would have occur, else serious)
 * few more.
 
-Domain: Machinelearning(classification Model), Health related.
+Domain: Machinelearning(classification Model), Health-care.
 
 Tech stack: 
 ----------
